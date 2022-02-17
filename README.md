@@ -3,15 +3,10 @@
 It is a website application that has been given a visual effect with playing cards. Guessing games can be designed using this visual interface.
 
 
-
 ## Installation
 
 `index.html` dosyası çalıştırılarak direkt browser'dan erişim sağlanabilir. 
-
 Repo heroku deployment için tamamen hazırdır, tahminsel oyun türevleri eklenerek versiyon değişikliği yapılabilir.
-
-
-
 
 
 ![Image of Project](https://github.com/enes9103/playing_cards_web_development/blob/main/position_1.jpg) ![Image of Project](https://github.com/enes9103/playing_cards_web_development/blob/main/position_2.jpg)![Image of Project](https://github.com/enes9103/playing_cards_web_development/blob/main/position_3.jpg)
