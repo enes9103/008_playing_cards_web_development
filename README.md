@@ -49,14 +49,11 @@ Project Link: [https://github.com/enes9103](https://github.com/enes9103)
 <p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
 
  <p align="right">(<a href="#top">back to top</a>)</p>
-
 <br>
   
 </div><br>
-
   
 <img src="https://media0.giphy.com/media/3ornkc6KUmmnEIQ7VS/giphy.gif?cid=ecf05e47fuoere4vfl5zf1d2fzmp9kl48mqqnj6ybu1ulk0b&rid=giphy.gif&ct=g">
-    <br> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
  <p align="right">(<a href="#top">back to top</a>)</p>
