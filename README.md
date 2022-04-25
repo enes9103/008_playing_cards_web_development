@@ -11,17 +11,9 @@ Repo heroku deployment için tamamen hazırdır, tahminsel oyun türevleri eklen
 
 ![Image of Project](https://github.com/enes9103/playing_cards_web_development/blob/main/position_1.jpg) ![Image of Project](https://github.com/enes9103/playing_cards_web_development/blob/main/position_2.jpg)![Image of Project](https://github.com/enes9103/playing_cards_web_development/blob/main/position_3.jpg)
 
-<div id="contact">
- 
-<h2> Connect with me: </h2>
- 
-  <a href="https://www.linkedin.com/in/enesunlu/"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
-   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=enes9103@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
- 
- </div>
-<!-- CONTACT -->
-## Contact
 
+<!-- CONTACT -->
+<h2> Connect with me: </h2>
 <a href="https://my-portfolio-page-resume.herokuapp.com/">
 <img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 </a>
