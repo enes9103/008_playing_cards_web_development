@@ -19,24 +19,52 @@ Repo heroku deployment için tamamen hazırdır, tahminsel oyun türevleri eklen
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=enes9103@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
  
  </div>
+<!-- CONTACT -->
+## Contact
 
- <div id="tools">
- <h2> Languages and tools:  </h2><br>
- 
- <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
+<a href="https://my-portfolio-page-resume.herokuapp.com/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+</a>
 
- <img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
- 
- <img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145">
- 
- </div>
- 
+<a href="https://www.linkedin.com/in/enesunlu/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/Enes9103">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/nolan/40/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/enesunlu0303/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="https://t.me/Enes9103">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+</a>
+
+<a href="mailto:enes9103@gmail.com">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+
+Project Link: [https://github.com/enes9103](https://github.com/enes9103)
+</p>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+## Support
+
+<p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
+
+ <p align="right">(<a href="#top">back to top</a>)</p>
+
 <br>
   
 </div><br>
-&copy; Enes ÜNLÜ / Fulstack Developer <br><br>
+
   
 <img src="https://media0.giphy.com/media/3ornkc6KUmmnEIQ7VS/giphy.gif?cid=ecf05e47fuoere4vfl5zf1d2fzmp9kl48mqqnj6ybu1ulk0b&rid=giphy.gif&ct=g">
     <br> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+ <p align="right">(<a href="#top">back to top</a>)</p>
